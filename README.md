@@ -2,7 +2,7 @@
 
 ## About This Repository
 
-This repository is my learning record for the course **CS351/IN321: AI-assisted Software Development**.
+This repository is my learning record for the course **CS351: AI-assisted Software Development**.
 
 In this course, I learned how to use GitHub and AI tools to support software development. This repository includes my course materials, projects, notes, and learning reflections during the semester.
 
@@ -20,7 +20,6 @@ In this repository, I organized my course-related work, including:
 * assignments
 * learning records
 * reflections
-* GitHub practice
 
 I tried to keep the files organized so that I can review my learning process more easily in the future.
 
