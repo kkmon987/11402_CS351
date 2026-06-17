@@ -6,7 +6,7 @@ This repository demonstrates my learning progress in several ways.
 First, it shows that software development is not only about writing code. A complete software project should include requirements understanding, implementation, testing, documentation, version control, and reflection.
 
 Second, it shows my experience using GitHub as a development tool. GitHub is not only a place to upload files, but also a tool for recording the development process. Through commit history, branches, pull requests, and merges, I can track how a project changes over time.
-:::writing{variant="standard" id="73942"}
+
 ## What This Repository Demonstrates
 
 This repository demonstrates my learning progress in several important ways.
